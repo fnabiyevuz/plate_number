@@ -1,2 +1,4 @@
 Django
 opencv-python
+django-cors-headers
+djangorestframework
